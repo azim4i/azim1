@@ -1,0 +1,575 @@
+*{
+    margin: 0;
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
+.header-logo{
+    display: flex;
+    justify-content: space-between;
+}
+.time{
+    justify-content: space-between;
+    padding-top: 25px;
+}
+.logo{
+    padding-top: 33px;
+    padding-right: 185px;
+}
+.menu{
+    padding-top: 22px;
+    margin-right: 20px;
+    margin-left: 40px;
+}
+.menu-header{
+    margin-right: 100px;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    color: #222222;
+    text-decoration: none;
+}
+.image{
+    padding-right: 20px;
+    padding-left: 30px;
+}
+.img{
+    padding-right: 30px;
+    text-align: center;
+}
+.header{
+    padding-bottom: 80px;
+}
+.phonn{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 170px;
+}
+.left-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #fff;
+    padding-bottom: 100px;
+}
+.button{
+    background-color: #005FA3;
+    padding: 19px 19px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+}
+.bg-holder{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left-btn{
+    padding-bottom: 260px;
+}
+.left{
+    padding-left: 400px;
+}
+.right-title{
+    margin-top: 520px;
+    margin-right: 490px;
+    margin-bottom: 130px;
+}
+.images{
+    background-color: rgb(191, 185, 185);
+    padding: 22px 25px;
+}
+.imagess{
+    background-color: rgb(142, 123, 123);
+    padding: 22px 25px;
+}
+.his-img{
+    display: flex;
+    justify-content: center;
+    margin-left:100px;
+    margin-right:100px;
+}
+.kartina{
+    padding-right: 50px;
+}
+.history-subtext{
+    font-weight: 900;
+    font-size: 48px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+    padding-top: 40px;
+}
+.history-pin{
+    display:contents;
+    justify-content: center;
+}
+.imgg{
+    justify-content: center;
+}
+.header-hitory{
+    margin-top: 140px;
+}
+.history-text{
+    display: flex;
+    justify-content: center;
+}
+.history-imgg{
+    padding-top: 30px;
+}
+.history{
+    background-color: #EBEBEB;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 140px;
+}
+.we-line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.we{
+    padding-top: 140px;
+    padding-bottom: 140px;
+}
+.subtext{
+    padding-right: 130px;
+}
+.b{
+    font-weight: 900;
+    font-size: 48px;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.c{
+    font-weight: 300;
+    font-size: 18px;
+}
+.ff{
+    background-color: #EBEBEB;
+    padding: 100px 40px;
+    margin-right: 30px;
+    background-size:cover;
+}
+.rr{
+    background-color: #EBEBEB;
+    padding: 30px 47px;
+    margin-right: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.qq{
+    font-weight: 900;
+    font-size: 55px;
+    line-height: 66px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-top: 30px;
+    color: #000000;
+
+}
+.vv{
+    padding-top: 30px;
+    padding-bottom: 47px;
+}
+.hh{
+    background-color:#005FA3;
+    padding: 30px 47px;
+    margin-right: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.gg{
+    color: #fff;
+    font-weight: 900;
+    font-size: 55px;
+    line-height: 66px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-top: 30px
+}
+.mm{
+    padding-top: 30px;
+    padding-bottom: 47px;
+    color: #fff;
+}
+.xx{
+    color: #fff;
+}
+.a{
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 33px;
+    color: #BDBDBD;
+}
+
+
+.right-titlee{
+    display: flex;
+    justify-content: end;
+    padding-top: 50px;
+    align-items: center;
+}
+.imagesss{
+    background-color: rgb(191, 185, 185);
+    padding: 22px 25px;
+}
+.imagessss{
+    background-color: rgb(77, 92, 138);
+    padding: 22px 25px;
+}
+.qwe{
+    display: flex;
+    justify-content: center;
+}
+.our{
+    font-size: 25px;
+    font-weight: 300;
+}
+.team{
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 69px;
+    color: #333333;
+}
+.microsoft{
+    display: flex;
+    justify-content: center;
+    background-color: #EBEBEB;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.cl{
+    display: flex;
+    justify-content:start;
+    
+}
+.tochka{
+    padding-left: 20px;
+}
+.coment-text{
+    background-color: #EBEBEB;
+    background-size: cover;
+    padding-top: 45px;
+    padding-bottom: 60px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.comment{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 140px;
+}
+.com-img{
+    display: flex;
+    align-items: center;
+    padding-top: 58px;
+}
+.coment-img{
+    margin-right: 35px;
+
+}
+.coment-subtext{
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 33px;
+    color: #BDBDBD;
+    padding-top: 140px;
+    padding-bottom: 40px;
+}
+.coment-suptext{
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 69p;
+    color: #333333;
+    padding-bottom: 80px;
+}
+.com-text{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    padding-bottom: 50px;
+}
+.img-subtext{
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+}
+.img-suptext{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #4F4F4F;
+    padding-top: 10px;
+}
+.gmail{
+    background-image: url(Rectangle\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-bottom: 242px;
+    padding-top: 120px;
+}
+.gmail-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gmail-header{
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 69px;
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 60px;
+}
+.gmail-text{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    color: #c5b7b7;
+    padding-bottom: 80px;
+}
+.gmail-name{
+    padding-right: 125px ;
+}
+.pen{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    padding-bottom: 15px;
+}
+.pencil{
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 29px;
+    color: #BDBDBD;
+}
+.name{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+.ima{
+    padding-right: 40px;
+}
+.pencill{
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 29px;
+    color: #BDBDBD;
+    padding-bottom: 84px;
+}
+.gmail-phone{
+    color: #FFFFFF;
+}
+.imagee{
+    padding-right: 20px;
+    padding-left: 40px;
+}
+.gmail-header{
+    padding-bottom: 50px;
+}
+.footer-text{
+    display: flex;
+    justify-content: center;
+    padding: 50px 100px;
+}
+.footer-subtext{
+    padding-right: 700px;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+}
+.footer-suptext{
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+}
+.input{
+    color:#f9f7f7;
+    width: 600px;
+    height: 150px;
+    background:rgba(0,0,0, 0)
+}
+.input1{
+    color:#f9f7f7;
+    width: 270px;
+    height: 50px;
+    background:rgba(0,0,0, 0)
+}
+.i88,
+.ioo{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.kartinaa{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+@media (max-width:1200px) {
+    .ioo{
+        padding-bottom: 60px;
+    }
+    .hh {
+        margin-right: 0px;
+    }
+    .vv,
+    .mm {
+        padding-top: 30px;
+        padding-bottom: 47px;
+        font-size: 20px;
+    }
+    .logo {
+        display: flex;
+        justify-content: center;
+        padding-right: 0px;
+    }
+    .we-line{
+        display: flow-root;
+        text-align: center;
+    }
+    .c {
+        font-weight: 300;
+        font-size: 18px;
+        padding-bottom: 50px;
+    }
+    .hh {
+        align-items:center;
+        padding: none;
+    }
+    .subtext {
+        padding-right: 0px;
+    }
+    .left-title {
+        display: flex; 
+        justify-content: center;
+        text-align: center;
+    }
+    .gmail-head {
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+    .massege{
+        text-align: center;
+    }
+    .right-title {
+        display: flex;
+        justify-content: center;
+        display: none;
+    }
+    .his-img{
+        display:block;
+        justify-content: center
+    }
+    .hcss{
+        display: flex;
+        justify-content: center;
+        padding-left: 0px;
+        padding-right: 0px;
+
+    }
+    .history-imgg{
+        padding: 0px;
+    }
+    .kartina{
+        padding-right: 0px;
+        padding-bottom: 30px;
+    }
+    .left-title {
+        font-weight: 700;
+        font-size: 27px;
+    }
+    .button {
+        background-color: #005FA3;
+        padding: 10px 10px;
+        font-weight: 400;
+        font-size: 12px;
+        color: #fff;
+        text-decoration: none;
+    }
+    .kartinaa{
+        display: none;
+    }
+    .footer-suptext,
+    .our,
+    .team{
+        text-align: center;
+    }
+    .footer-subtext {
+        padding-right: 50px;
+    }
+    .time,
+    .tochka,
+    .right-titlee {
+        display: none;
+    }
+    .our-img{
+        display: flow-root;
+        text-align: center;
+    }
+    .left {
+        padding-left: 0px;
+    }
+    .bg-holder {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .gmail-name {
+        padding-right: 0px;
+    }
+    .gmail-header,
+    .gmail-text,
+    .i88,
+    .ioo,
+    .coment-subtext,
+    .coment-suptext{
+
+        display: flex;
+        justify-content: center;
+    }
+    .coment-suptext {
+        font-weight: 900;
+        font-size: 30px;
+    }
+    .coment-text {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .history-subtext {
+        font-weight: 900;
+        font-size: 21px;
+    }
+    .gmail-text {
+        font-size: 14px;
+    }
+    .team {
+        font-size: 37px;
+    }
+    .rr{
+        margin-right: 0px;
+    }
+}
+@media (max-width:850px){
+    .input{
+        color:#f9f7f7;
+        width: 300px;
+        height: 150px;
+        background:rgba(0,0,0, 0)
+    }
+    .input1{
+        color:#f9f7f7;
+        width: 120px;
+        height: 50px;
+        background:rgba(0,0,0, 0)
+    }
+}
